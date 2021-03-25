@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8F3C93CD-770E-4E53-8B9B-A5F9B0D5ADC0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stime.Backup/local.settings.json">
+    <Files>
+      <File FileName="Stime.Backup/host.json" Line="1" Column="1" />
+      <File FileName="Stime.Backup/local.settings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stime.Backup" expanded="True">
+            <Node name="Stime.Backup" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="local.settings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Stime.Backup PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
